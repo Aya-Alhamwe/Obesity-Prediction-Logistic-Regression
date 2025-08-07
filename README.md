@@ -22,8 +22,13 @@ Although Logistic Regression is usually used for binary classification, this pro
 The task is to classify individuals into **7 different obesity levels**, such as:
 
 - Obesity Type I  
-- Obesity Type II / III  
-- Normal Weight, etc.
+- Obesity Type III  
+- Obesity Type II  
+- Overweight Level I  
+- Overweight Level II  
+- Normal Weight  
+- Insufficient Weight  
+
 
 This makes it a **multi-class classification** problem.
 
